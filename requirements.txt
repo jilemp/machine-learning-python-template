@@ -11,5 +11,6 @@ requests>=2.27.1
 scikit-learn
 seaborn>=0.12.2
 sqlalchemy>=1.4.37
+streamlit
 sympy>=1.10.1
 xgboost
